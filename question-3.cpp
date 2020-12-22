@@ -1,3 +1,4 @@
+// find middle element
 #include<stdio.h>  
 #include<stdlib.h>  
 
